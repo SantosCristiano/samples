@@ -23,7 +23,7 @@
     "gulp-plumber": "*",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "*",
-    "gulp-sass": "*",
+    "gulp-sass": "5.0.0",
     "gulp-sourcemaps": "*",
     "gulp-uglify": "*",
     "helmet": "^3.12.1",
